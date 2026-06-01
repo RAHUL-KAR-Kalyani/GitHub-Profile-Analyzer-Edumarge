@@ -40,3 +40,8 @@ npm run dev
 - Get a single analyzed profile by username
 - Handle duplicate profiles using update functionality
 
+# Browser API test after deployment
+- https://github-profile-analyzer-edumarge.onrender.com/api/profiles//analyze/RAHUL-KAR-Kalyani
+- https://github-profile-analyzer-edumarge.onrender.com/api/profiles/RAHUL-KAR-Kalyani
+- https://github-profile-analyzer-edumarge.onrender.com/api/profiles
+
